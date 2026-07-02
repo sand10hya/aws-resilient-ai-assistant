@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local deployment info (contains AWS account ID)
+config/lambda_deployment_info.json

@@ -1,0 +1,32 @@
+[
+  {
+    "test": "Financial Question",
+    "status": "SUCCESS",
+    "model": "amazon.nova-lite-v1:0",
+    "latency": 1.25
+  },
+  {
+    "test": "General Knowledge",
+    "status": "SUCCESS",
+    "model": "amazon.nova-lite-v1:0",
+    "latency": 2.76
+  },
+  {
+    "test": "Investment Question",
+    "status": "SUCCESS",
+    "model": "amazon.nova-lite-v1:0",
+    "latency": 2.51
+  },
+  {
+    "test": "Technology Question",
+    "status": "SUCCESS",
+    "model": "amazon.nova-lite-v1:0",
+    "latency": 4.25
+  },
+  {
+    "test": "Cryptocurrency Question",
+    "status": "SUCCESS",
+    "model": "amazon.nova-lite-v1:0",
+    "latency": 1.82
+  }
+]

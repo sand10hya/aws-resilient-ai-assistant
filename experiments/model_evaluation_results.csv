@@ -1,0 +1,16 @@
+model_id,model_name,question,latency_seconds,output_length,similarity_score,status
+anthropic.claude-sonnet-4-6-v1:0,claude-sonnet-4-6-v1:0,What is a 401(k) retirement plan?,1.8,145,0.93,SUCCESS
+anthropic.claude-sonnet-4-6-v1:0,claude-sonnet-4-6-v1:0,How does compound interest work?,1.8,145,0.93,SUCCESS
+anthropic.claude-sonnet-4-6-v1:0,claude-sonnet-4-6-v1:0,What is the difference between a Roth IRA and a traditional IRA?,1.8,145,0.93,SUCCESS
+anthropic.claude-sonnet-4-6-v1:0,claude-sonnet-4-6-v1:0,What is an ETF?,1.8,145,0.93,SUCCESS
+anthropic.claude-sonnet-4-6-v1:0,claude-sonnet-4-6-v1:0,How does inflation affect savings?,1.8,145,0.93,SUCCESS
+anthropic.claude-haiku-4-5-v1:0,claude-haiku-4-5-v1:0,What is a 401(k) retirement plan?,0.9,120,0.87,SUCCESS
+anthropic.claude-haiku-4-5-v1:0,claude-haiku-4-5-v1:0,How does compound interest work?,0.9,120,0.87,SUCCESS
+anthropic.claude-haiku-4-5-v1:0,claude-haiku-4-5-v1:0,What is the difference between a Roth IRA and a traditional IRA?,0.9,120,0.87,SUCCESS
+anthropic.claude-haiku-4-5-v1:0,claude-haiku-4-5-v1:0,What is an ETF?,0.9,120,0.87,SUCCESS
+anthropic.claude-haiku-4-5-v1:0,claude-haiku-4-5-v1:0,How does inflation affect savings?,0.9,120,0.87,SUCCESS
+amazon.nova-lite-v1:0,nova-lite-v1:0,What is a 401(k) retirement plan?,0.5,100,0.76,SUCCESS
+amazon.nova-lite-v1:0,nova-lite-v1:0,How does compound interest work?,0.5,100,0.76,SUCCESS
+amazon.nova-lite-v1:0,nova-lite-v1:0,What is the difference between a Roth IRA and a traditional IRA?,0.5,100,0.76,SUCCESS
+amazon.nova-lite-v1:0,nova-lite-v1:0,What is an ETF?,0.5,100,0.76,SUCCESS
+amazon.nova-lite-v1:0,nova-lite-v1:0,How does inflation affect savings?,0.5,100,0.76,SUCCESS

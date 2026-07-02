@@ -1,0 +1,5 @@
+{
+  "api_id": "rwv9ofnnak",
+  "endpoint": "https://rwv9ofnnak.execute-api.us-east-1.amazonaws.com/prod/generate",
+  "region": "us-east-1"
+}

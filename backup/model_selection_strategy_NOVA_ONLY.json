@@ -1,0 +1,17 @@
+{
+  "primary_model": "amazon.nova-lite-v1:0",
+  "fallback_models": [],
+  "model_scores": [
+    {
+      "model_name": "amazon.nova-lite-v1:0",
+      "latency_seconds": 0.5,
+      "similarity_score": 0.76,
+      "overall_score": 0.749
+    }
+  ],
+  "recommended_for": {
+    "quality": "amazon.nova-lite-v1:0",
+    "speed": "amazon.nova-lite-v1:0",
+    "balanced": "amazon.nova-lite-v1:0"
+  }
+}

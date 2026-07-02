@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is a 401(k) retirement plan?",
+    "context": "Financial services",
+    "ground_truth": "A 401(k) is a tax-advantaged retirement savings plan offered by employers."
+  },
+  {
+    "question": "How does compound interest work?",
+    "context": "Financial services",
+    "ground_truth": "Compound interest is when you earn interest on both the money you've saved and the interest you earn."
+  },
+  {
+    "question": "What is the difference between a Roth IRA and a traditional IRA?",
+    "context": "Financial services",
+    "ground_truth": "A Roth IRA uses after-tax dollars but withdrawals are tax-free. A traditional IRA uses pre-tax dollars and withdrawals are taxed."
+  },
+  {
+    "question": "What is an ETF?",
+    "context": "Financial services",
+    "ground_truth": "An ETF (Exchange-Traded Fund) is a collection of stocks or bonds that trades like a stock on an exchange."
+  },
+  {
+    "question": "How does inflation affect savings?",
+    "context": "Financial services",
+    "ground_truth": "Inflation reduces the purchasing power of money over time, so savings lose value unless they earn interest that exceeds inflation."
+  }
+]
