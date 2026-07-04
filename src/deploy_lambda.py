@@ -8,7 +8,6 @@ iam = boto3.client('iam', region_name='us-east-1')
 lambda_client = boto3.client('lambda', region_name='us-east-1')
 apigateway = boto3.client('apigateway', region_name='us-east-1')
 
-ACCOUNT_ID = '549198690328'
 REGION = 'us-east-1'
 ROLE_NAME = 'lambda-bedrock-role'
 FUNCTION_NAME = 'ai-assistant-model-abstraction'
